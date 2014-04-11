@@ -1,3 +1,6 @@
+Download all the files then compile and run beta.py 
+Note this game was created with python 2.7.3.1 and you need to have Pygame.
+
 Here are the rules and objective for this game: 
 
     If you come in contact with the enemies you die and game over.
