@@ -1,0 +1,18 @@
+This is a platform game I created for my grade 12 Computer Science summative project.
+
+Here are the rules and objective for this game: 
+    If you come in contact with the enemies you die and game over.
+    If you fall off the screen you also die and game over.
+    Enemies are generated randomly around the borders. 
+    As the game goes on more and more enemies will be generated to increase the difficulty.
+    Once the number of enemies reach the limit of 12 they will stop spawning and speed up instead.
+    In 2 player mode users can revive each other by contact. Game over when both players are dead.
+    Score is based on time, the longer you survive the higher the score will be.
+    Objective is to dodge the enemies and stay as long as possible.
+    
+Controls for 1 player mode are: left arrow key, right arrow key for movements and space for jump.
+
+Controls for 2 player mode are: left arrow key, right arrow key and up arrow key for player 1.
+                                A, W and D for player 2.
+                                
+ENJOY! and I strongly suggest 2 player mode.
